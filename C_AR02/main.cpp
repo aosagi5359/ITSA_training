@@ -1,6 +1,5 @@
 #include <iostream>
-#include <algorithm>  // 包括reverse函数
-#include <vector>
+#include <algorithm>  
 using namespace std;
 
 int main() {
